@@ -61,15 +61,11 @@ SIEM
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
-
 ## 🤳Contact Me
 I’m always open to networking and discussing cybersecurity topics and opportunities! Feel free to reach out via 
 #### 📧 taylorolatunji27@gmail.com.       
 <a href="https://linkedin.com/in/olatunji-taylor-277b4232a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 <a href="https://x.com"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
-
-
-
 
 ## 👏Thanks for visiting my profile
 
