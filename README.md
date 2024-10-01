@@ -71,19 +71,14 @@ I’m always open to networking and discussing cybersecurity topics and opportun
 
 **Hard Disk**: <br/>
 
-<img src="https://imgur.com/1gab3mO.jpg"height="40%" width="40%"style="border: 2px solid black; padding:5px; border-radius: 5px;"/>
+<img src="https://imgur.com/1gab3mO.jpg" height="40%" width="40%" alt="Disk Sanitization Steps" />
+
+
+style="border: 2px solid black
 
 
 
 
-<img src="https://imgur.com/1gab3mO.jpg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-
-
-
-
-
-
-<img src="https://imgur.com/1gab3mO.jpg" alt="Start" width="500" />
 
 
 
