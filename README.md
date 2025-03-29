@@ -4,9 +4,9 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 
 ## Skills
 
- Skill                                         | Associated Project         |
+ Skill                                          | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Management         | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management | <a href="https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab/blob/main/README.md">Link to README</a>
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Malware Analysis     |Pending Lab|
 | SIEM Implementation and Log Analysis |Pending Lab |
