@@ -6,11 +6,12 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 
  Skill                                          | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Management | <a href="https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab/blob/main/README.md">Link to README</a>
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management (Nessus) | <a href="https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab/blob/main/README.md">Vulnerability Management</a>
+| Network Traffic Analysis (Wireshark)    | <a href="https://google.com">Detection Lab</a>|
 | Malware Analysis     |Pending Lab|
-| SIEM Implementation and Log Analysis |Pending Lab |
-|Identity and Access management (IAM)|pending Lab
+|IDS/IPS (Snort)       |Pending Lab
+|SIEM Implementation and Log Analysis |Pending Lab |
+|Phishing simulation (Gophish)|pending Lab
 
 
 ## 🛠️ Tools:
@@ -46,12 +47,10 @@ SIEM
 
 
 ## 👨‍💻  Projects: Objectives And Outcomes
-
-
-| Projects                       | Objectives                 |Outcomes
-|------------------------------- |----------------------------|--------------------------------------|
-| Vulnerability Management       |Identify Vulnerabilities,Prioritize Risks,Remediation Planning,Continuous Monitoring, Reporting| Reduced Attack Surface,Improved Security Posture,Informed Decision-Making,Increased Incident Response Readiness
-| Network Traffic Monitoring and Attack Detection |Real-Time Traffic Analysis,Threat Detection,Baseline Establishment,Reporting and Analytics| Enhanced Threat Detection,Improved Network Visibility,Strengthened Security Posture,                  |
+| Projects                                                                                                                     | Outcome                                                                          |
+|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| <a href="https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab/blob/main/README.md">Vulnerability Management</a>  |Reduced Attack Surface,Improved Security Posture,Informed Decision-Making,Increased Incident Response Readiness.
+| Network Traffic Analysis(Wireshark)                       |  Enhanced Threat Detection,Improved Network Visibility,Strengthened Security Posture,                  
 | Malware Analysis   |Malware Identification,Behavioral Analysis,Static and Dynamic Analysis,Impact Assessment, Remediation strategies  |Enhanced Malware Detection,Increased Understanding of Threat Landscape,Strengthened Incident Response,Improved Security Posture
 |SIEM Implementation and Log Analysis  | Centralized Log Management,Real-Time Monitoring,Threat Detection,Incident Response Integration,Security Analytics| Improved Threat Detection and Response,Bolstered Comprehensive Security Posture,Data-Driven Decision Making,Enhanced Incident Investigation
 |Identity and access management (IAM) |User Identity Management,Access Control Policies, Authentication Mechanisms,Provisioning and Deprovisioning,Audit and Compliance |  Operational Efficiency, Enhanced Users Experience, Reduced Risk of Insider Threats,Enhanced security policies and access management strategies.                           | 
