@@ -1,4 +1,6 @@
-# Welcome to My GitHub Profile
+## Welcome to My GitHub Profile
+<img src="https://i.imgur.com/MlVn23j.png" height="18%" width="18%" />
+
 ## About Me
 Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otaylor) an aspiring SOC Analyst with a keen interest in cybersecurity.I am passionate about protecting digital assets,systems and networks and enhancing organizational security posture. My goal is to leverage my skills in Cyber threat intelligence,Threat Monitoring,Detection and Analysis,Vulnerability management,Incident response,Compliance and Regulation,Continuous learning and improvement,collaboration and communication to contribute to a robust cybersecurity environment.
 
