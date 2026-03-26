@@ -21,7 +21,7 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 | **Wireshark Network Analysis** https://github.com/GraceTech-Otaylor/Wireshark-Project | Packet inspection, protocol analysis, threat hunting |
 | **Malware Analysis** https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab| Static & dynamic analysis, sandboxing, reverse engineering fundamentals |
 | **AWS Identity & Access Management (IAM)** https://github.com/GraceTech-Otaylor/AWS-Identity-and-Access-Management-IAM-Project| Identity federation, IAM policies, least privilege, MFA |
-| **Nessus Vulnerability Management** | Vulnerability scanning, risk scoring, prioritization, remediation |
+| **Nessus Vulnerability Management** https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab| Vulnerability scanning, risk scoring, prioritization, remediation |
 | **Microsoft Sentinel SIEM** | KQL queries, alerting, log correlation, incident triage and response |
 | **AWS + Elastic SIEM + Tines AI Automation** | SOAR automation, low‑code workflows, cross‑platform integration, AI‑driven enrichment |
 
