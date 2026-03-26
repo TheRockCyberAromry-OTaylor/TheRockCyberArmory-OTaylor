@@ -4,16 +4,7 @@
 ## About Me
 Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otaylor) an aspiring SOC Analyst with a keen interest in cybersecurity.I am passionate about protecting digital assets,systems and networks and enhancing organizational security posture. My goal is to leverage my skills in Cyber threat intelligence,Threat Monitoring,Detection and Analysis,Vulnerability management,Incident response,Compliance and Regulation,Continuous learning and improvement,collaboration and communication to contribute to a robust cybersecurity environment.
 
-## Skills
 
- Skill                                          | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Vulnerability Management (Nessus) | <a href="https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab/blob/main/README.md">Vulnerability Management</a>
-| Network Traffic Analysis (Wireshark)    | <a href="https://google.com">Detection Lab</a>|
-| Malware Analysis     |Pending Lab|
-|IDS/IPS (Snort)       |Pending Lab
-|SIEM Implementation and Log Analysis |Pending Lab |
-|Phishing simulation (Gophish)|pending Lab
 
 
 | **Projects** | **Core Skills Demonstrated** |
@@ -26,7 +17,8 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 | **AWS + Elastic SIEM + Tines AI Automation** https://github.com/GraceTech-Otaylor/Cloud-Native-AI-Enhanced-Security-Log-Automation-Pipeline-with-AWS-Elastic-and-Tines| SOAR automation, low‑code workflows, cross‑platform integration, AI‑driven enrichment |
 
 
-## 🛠️ Tools:
+### 🛠️ Tools:
+
 #### Network Analysis
 
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Tool-Wireshark-002F6C?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
