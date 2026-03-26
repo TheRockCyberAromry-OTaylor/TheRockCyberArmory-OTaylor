@@ -126,7 +126,9 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 
 
 ## 🎓 Certifications: 
-<a href="https://www.youruniversity.edu/degree/business-administration"><img src="https://img.shields.io/badge/BSc%20in%20Business%20Administration-8B7B4A?style=for-the-badge&logo=University&logoColor=white" /></a>
+<a href="https://www.youruniversity.edu/degree/business-administration">
+  <img src="https://img.shields.io/badge/BSc%20Business%20Administration-0056B3?style=for-the-badge&logo=university&logoColor=white" alt="BSc in Business Administration" />
+</a>
 
 <a href="https://www.comptia.org/certifications/stackable-professional"><img src="https://img.shields.io/badge/Certified%20-CompTIA%20Stackable%20Professional-003D6C?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
 
@@ -135,22 +137,6 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/Network%2B%20-Certified-0072C6?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
 
-
-
-## 👨‍💻  Projects: Objectives And Outcomes
-| Projects                                                                                                                     | Outcome                                                                          |
-|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| <a href="https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab/blob/main/README.md">Vulnerability Management</a>  |Reduced Attack Surface,Improved Security Posture,Informed Decision-Making,Increased Incident Response Readiness.
-| Network Traffic Analysis(Wireshark)                       |  Enhanced Threat Detection,Improved Network Visibility,Strengthened Security Posture,                  
-| Malware Analysis   |Malware Identification,Behavioral Analysis,Static and Dynamic Analysis,Impact Assessment, Remediation strategies  |Enhanced Malware Detection,Increased Understanding of Threat Landscape,Strengthened Incident Response,Improved Security Posture
-|SIEM Implementation and Log Analysis  | Centralized Log Management,Real-Time Monitoring,Threat Detection,Incident Response Integration,Security Analytics| Improved Threat Detection and Response,Bolstered Comprehensive Security Posture,Data-Driven Decision Making,Enhanced Incident Investigation
-|Identity and access management (IAM) |User Identity Management,Access Control Policies, Authentication Mechanisms,Provisioning and Deprovisioning,Audit and Compliance |  Operational Efficiency, Enhanced Users Experience, Reduced Risk of Insider Threats,Enhanced security policies and access management strategies.                           | 
-
-<a href="https://youtube.com"><img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-
 ## 🤳Contact Me
 I’m always open to networking and discussing cybersecurity topics and opportunities! Feel free to reach out via 
 #### 📧 taylorolatunji27@gmail.com.       
@@ -158,13 +144,6 @@ I’m always open to networking and discussing cybersecurity topics and opportun
 <a href="https://x.com"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 ## 👏Thanks for visiting my profile
-
-**Hard Disk**: <br/>
-
-<img src="https://imgur.com/1gab3mO.jpg" height="40%" width="40%" alt="Disk Sanitization Steps" />
-
-
-style="border: 2px solid black
 
 
 
