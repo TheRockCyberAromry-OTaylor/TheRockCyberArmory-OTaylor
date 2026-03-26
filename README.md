@@ -18,7 +18,7 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 
 | **Projects** | **Core Skills Demonstrated** |
 | --- | --- |
-| **Wireshark Network Analysis** | Packet inspection, protocol analysis, threat hunting |
+| **Wireshark Network Analysis** https://github.com/GraceTech-Otaylor/Wireshark-Project | Packet inspection, protocol analysis, threat hunting |
 | **Malware Analysis** | Static & dynamic analysis, sandboxing, reverse engineering fundamentals |
 | **AWS Identity & Access Management (IAM)** | Identity federation, IAM policies, least privilege, MFA |
 | **Nessus Vulnerability Management** | Vulnerability scanning, risk scoring, prioritization, remediation |
