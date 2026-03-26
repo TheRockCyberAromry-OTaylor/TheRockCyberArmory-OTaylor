@@ -85,7 +85,7 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 </a>
 
 <a href="https://support.google.com/accounts/answer/1066447">
-  <img src="https://img.shields.io/badge/App-Google%20Authenticator-4285F4?style=for-the-badge&logo=googleauthenticator&logoColor=white" />
+  <img src="https://img.shields.io/badge/MFA-Google%20Authenticator-FFFFFF?style=for-the-badge&logo=google&logoColor=4285F4" />
 </a>
 
 
