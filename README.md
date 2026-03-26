@@ -27,10 +27,9 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 
 
 ## 🛠️ Tools:
-Network
+Network Analysis
 
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Tool-Wireshark-002F6C?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-<a href="https://www.wireshark.org/docs/manpages/tshark.html"><img src="https://img.shields.io/badge/Tool-TShark-002F6C?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 <a href="https://nmap.org"><img src="https://img.shields.io/badge/Tool-Nmap-10B6C2?style=for-the-badge&logo=Nmap&logoColor=white" /></a>
 
 
