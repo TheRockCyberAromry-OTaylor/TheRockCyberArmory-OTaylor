@@ -122,6 +122,8 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
   <img src="https://img.shields.io/badge/BSc%20Business%20Administration-0056B3?style=for-the-badge&logo=university&logoColor=white" alt="BSc in Business Administration" />
 </a>
 
+<a href="https://www.youruniversity.edu/degree/business-administration"><img src="https://img.shields.io/badge/BSc%20in%20Business%20Administration-8B7B4A?style=for-the-badge&logo=University&logoColor=white" /></a>
+
 <a href="https://www.comptia.org/certifications/stackable-professional"><img src="https://img.shields.io/badge/Certified%20-CompTIA%20Stackable%20Professional-003D6C?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
 
 <a href="https://www.comptia.org/certifications/cybersecurity-analyst"><img src="https://img.shields.io/badge/CySA%2B%20-Certified-39FF14?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
