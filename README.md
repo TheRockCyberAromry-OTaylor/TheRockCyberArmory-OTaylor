@@ -16,6 +16,16 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 |Phishing simulation (Gophish)|pending Lab
 
 
+| **Projects** | **Core Skills Demonstrated** |
+| --- | --- |
+| **Wireshark Network Analysis** | Packet inspection, protocol analysis, threat hunting |
+| **Malware Analysis** | Static & dynamic analysis, sandboxing, reverse engineering fundamentals |
+| **AWS Identity & Access Management (IAM)** | Identity federation, IAM policies, least privilege, MFA |
+| **Nessus Vulnerability Management** | Vulnerability scanning, risk scoring, prioritization, remediation |
+| **Microsoft Sentinel SIEM** | KQL queries, alerting, log correlation, incident triage and response |
+| **AWS + Elastic SIEM + Tines AI Automation** | SOAR automation, low‑code workflows, cross‑platform integration, AI‑driven enrichment |
+
+
 ## 🛠️ Tools:
 Network
 
