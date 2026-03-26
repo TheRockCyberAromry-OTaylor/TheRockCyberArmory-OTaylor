@@ -92,7 +92,15 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 Vulnerability Management
 
 <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Tool-Nessus-003d4d?style=for-the-badge&logo=Tenable&logoColor=white" /></a>
+<a href="https://support.google.com/accounts/answer/1066447" style="display:inline-flex; align-items:center;">
+  <!-- Shields.io base badge -->
+  <img src="https://img.shields.io/badge/App-Google%20Authenticator-4285F4?style=for-the-badge&logo=googleauthenticator&logoColor=white" alt="Google Authenticator Badge" />
 
+  <!-- Custom multi-color asterisk overlay -->
+  <img src="YOUR_MULTI_COLOR_ASTERISK_IMAGE_LINK" 
+       alt="Google Authenticator Icon" 
+       style="height:28px; margin-left:-30px; z-index:2;" />
+</a>
 
 SIEM
 
