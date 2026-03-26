@@ -96,6 +96,21 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
   <img src="https://img.shields.io/badge/Tool-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
 
+#### AWS + Elastic SIEM + Tines AI Automation
+
+<a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="https://www.elastic.co/siem/">
+  <img src="https://img.shields.io/badge/Tool-Elastic%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+</a>
+
+<a href="https://tines.com/">
+  <img src="https://img.shields.io/badge/Tool-Tines-6A1B9A?style=for-the-badge&logo=tines&logoColor=white" />
+</a>
+
+
 #### Threat Intelligence 
 
 <a href="https://www.virustotal.com">
