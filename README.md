@@ -78,11 +78,15 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
   <img src="https://img.shields.io/badge/Tool-ProcDOT-1E90FF?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
+#### Identity & Access Management (IAM)
 
+<a href="https://aws.amazon.com/what-is-cloud-computing/">
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
 
-
-
-
+<a href="https://support.google.com/accounts/answer/1066447">
+  <img src="https://img.shields.io/badge/App-Google%20Authenticator-4285F4?style=for-the-badge&logo=googleauthenticator&logoColor=white" />
+</a>
 
 
 Vulnerability Management
