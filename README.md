@@ -50,10 +50,6 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
   <img src="https://img.shields.io/badge/Tool-HashMyFiles-8A2BE2?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
 
-<a href="https://www.virustotal.com">
-  <img src="https://img.shields.io/badge/Tool-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-</a>
-
 <a href="https://exeinfo.atwebpages.com/">
   <img src="https://img.shields.io/badge/Tool-Exeinfo%20PE-FF8C00?style=for-the-badge&logo=windows&logoColor=white" />
 </a>
@@ -94,11 +90,24 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 <a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Tool-Nessus-003d4d?style=for-the-badge&logo=Tenable&logoColor=white" /></a>
 
 
-#### SIEM
+#### Microsoft Sentinel SIEM
 
 <a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel">
   <img src="https://img.shields.io/badge/Tool-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
+
+#### Threat Intelligence 
+
+<a href="https://www.virustotal.com">
+  <img src="https://img.shields.io/badge/Tool-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+</a>
+
+<a href="https://www.abuseipdb.com/">
+  <img src="https://img.shields.io/badge/Tool-AbuseIPDB-FF6F61?style=for-the-badge&logo=abuseipdb&logoColor=white" />
+</a>
+
+
+
 
 
 ## 🎓 Certifications: 
