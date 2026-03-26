@@ -27,10 +27,63 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
 
 
 ## 🛠️ Tools:
-Network Analysis
+#### Network Analysis
 
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Tool-Wireshark-002F6C?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 <a href="https://nmap.org"><img src="https://img.shields.io/badge/Tool-Nmap-10B6C2?style=for-the-badge&logo=Nmap&logoColor=white" /></a>
+
+#### Malware Analysis
+
+<a href="https://github.com/mandiant/flare-vm">
+  <img src="https://img.shields.io/badge/Tool-FLARE--VM-FF5733?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<a href="https://www.winitor.com/tools/pestudio/">
+  <img src="https://img.shields.io/badge/Tool-PE%20Studio-4B0082?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<a href="https://mh-nexus.de/en/hxd/">
+  <img src="https://img.shields.io/badge/Tool-HxD-2E8B57?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<a href="https://www.nirsoft.net/utils/hash_my_files.html">
+  <img src="https://img.shields.io/badge/Tool-HashMyFiles-8A2BE2?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<a href="https://www.virustotal.com">
+  <img src="https://img.shields.io/badge/Tool-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+</a>
+
+<a href="https://exeinfo.atwebpages.com/">
+  <img src="https://img.shields.io/badge/Tool-Exeinfo%20PE-FF8C00?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer">
+  <img src="https://img.shields.io/badge/Tool-Process%20Explorer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">
+  <img src="https://img.shields.io/badge/Tool-Process%20Monitor-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
+<a href="https://sourceforge.net/projects/regshot/">
+  <img src="https://img.shields.io/badge/Tool-Regshot-708090?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<a href="https://github.com/mandiant/flare-fakenet-ng">
+  <img src="https://img.shields.io/badge/Tool-FakeNet--NG-DC143C?style=for-the-badge&logo=windows&logoColor=white" />
+</a>
+
+<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procdump">
+  <img src="https://img.shields.io/badge/Tool-ProcDump-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
+
+
+
+
+
+
+
 
 
 Vulnerability Management
