@@ -84,9 +84,11 @@ Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otayl
   <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 
+
 <a href="https://support.google.com/accounts/answer/1066447">
   <img src="https://img.shields.io/badge/MFA-Google%20Authenticator-FFFFFF?style=for-the-badge&logo=google&logoColor=4285F4" />
 </a>
+
 
 
 Vulnerability Management
