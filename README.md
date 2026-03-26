@@ -43,7 +43,9 @@ SIEM
 
 <a href="https://www.splunk.com"><img src="https://img.shields.io/badge/Tool-Splunk-00A3E0?style=for-the-badge&logo=Splunk&logoColor=white" /></a>
 
-
+<a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel">
+  <img src="https://img.shields.io/badge/Tool-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</a>
 
 
 ## 🎓 Certifications: 
