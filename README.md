@@ -2,9 +2,8 @@
 <img src="https://i.imgur.com/MlVn23j.png" height="18%" width="18%" />
 
 ## About Me
-Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/GraceTech-Otaylor) an aspiring SOC Analyst with a keen interest in cybersecurity.I am passionate about protecting digital assets,systems and networks and enhancing organizational security posture. My goal is to leverage my skills in Cyber threat intelligence,Threat Monitoring,Detection and Analysis,Vulnerability management,Incident response,Compliance and Regulation,Continuous learning and improvement,collaboration and communication to contribute to a robust cybersecurity environment.
-
-
+Hello! I'm Olatunji Taylor,(https://github.com/GraceTech-Otaylor/TheRockCyberArmory-OTaylor).As a Tier 1 SOC analyst, I leverage my cybersecurity training, analytical mindset, and commitment to protecting organizational information systems, applications, network and data. I hold CompTIA Network+, Security+, and CySA+ certification, supported by a Bachelor of Science in Business Administration. I stay current with emerging threats, security tools, and best practices through continuous learning and hands on lab work.
+Through CySA+ training , volunteer IT experience and hands on lab work, I have gained practical exposure to identity and access management, identifying and monitoring  threats, basic log  and malware analysis, Vulnerability management and data protection. I bring strong teamwork, critical thinking, problem solving, and communication skills qualities essential for monitoring alerts, escalating incidents, and supporting SOC operations. I am dedicated to contributing to a security focused team with professionalism, reliability, and a strong desire to grow in the cybersecurity field.
 
 
 | **Projects** | **Core Skills Demonstrated** |
