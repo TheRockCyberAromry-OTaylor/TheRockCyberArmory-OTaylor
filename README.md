@@ -26,8 +26,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 
 #### Vulnerability Management
 
-<<a href="https://www.tenable.com/products/nessus">
-  <img src="https://img.shields.io/badge/Tool-Nessus-003d4d?style=for-the-badge&logo=tenable&logoColor=white" />
+<<a href="https://www.tenable.com/products/nessus"> <img src="https://img.shields.io/badge/Tool-Nessus-003d4d?style=for-the-badge&logo=tenable&logoColor=white" />
 </a>
 
 #### Malware Analysis
