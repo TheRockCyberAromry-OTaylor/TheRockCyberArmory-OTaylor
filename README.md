@@ -13,7 +13,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 | **AWS Identity & Access Management (IAM)** https://github.com/GraceTech-Otaylor/AWS-Identity-and-Access-Management-IAM-Project| Identity federation, IAM policies, least privilege, MFA |
 | **Nessus Vulnerability Management**https://github.com/TheRockCyberAromry-OTaylor/Vulnerability-Management-Lab| Vulnerability scanning, risk scoring, prioritization, remediation |
 | **Microsoft Sentinel SIEM** https://github.com/TheRockCyberAromry-OTaylor/Azure-Sentinel-Threat-Hunting-and-Incident-Response-Lab| KQL queries, alerting, log correlation, incident triage and response |
-| **AWS + Elastic SIEM + Tines AI Automation** https://github.com/GraceTech-Otaylor/Cloud-Native-AI-Enhanced-Security-Log-Automation-Pipeline-with-AWS-Elastic-and-Tines| SOAR automation, low‑code workflows, cross‑platform integration, AI‑driven enrichment |
+| **AWS + Elastic SIEM + Tines AI Automation**https://github.com/TheRockCyberAromry-OTaylor/Cloud-Native-AI-Enhanced-Security-Log-Automation-Pipeline-with-AWS-Elastic-and-Tines| SOAR automation, low‑code workflows, cross‑platform integration, AI‑driven enrichment |
 
 
 ### 🛠️ Tools:
