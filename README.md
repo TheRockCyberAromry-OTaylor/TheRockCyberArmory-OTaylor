@@ -18,9 +18,8 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 
 ### 🛠️ Tools:
 
-
-
 #### Network & Security Tools
+
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Tool-Wireshark-002F6C?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 <a href="https://nmap.org"><img src="https://img.shields.io/badge/Tool-Nmap-10B6C2?style=for-the-badge&logo=Nmap&logoColor=white" /></a>
 
@@ -83,6 +82,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 Microsoft Sentinel, Elastic Security
 
 #### Threat Intelligence
+
 <a href="https://www.virustotal.com">
   <img src="https://img.shields.io/badge/Tool-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
 </a>
@@ -90,7 +90,7 @@ Microsoft Sentinel, Elastic Security
 <a href="https://www.abuseipdb.com/">
   <img src="https://img.shields.io/badge/Tool-AbuseIPDB-FF6F61?style=for-the-badge&logo=abuseipdb&logoColor=white" />
 </a>
-VirusTotal, AbuseIPDB
+
 
 #### Cloud & IAM
 <a href="https://aws.amazon.com/iam/">
@@ -100,7 +100,7 @@ VirusTotal, AbuseIPDB
 <a href="https://support.google.com/accounts/answer/1066447">
   <img src="https://img.shields.io/badge/MFA-Google%20Authenticator-34A853?style=for-the-badge&logo=google&logoColor=FF0000" />
 </a>
-AWS (IAM, CloudTrail), MFA (Google Authenticator)
+
 
 <a href="https://aws.amazon.com/ec2/">
   <img src="https://img.shields.io/badge/Service-AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -119,11 +119,11 @@ AWS (IAM, CloudTrail), MFA (Google Authenticator)
 </a>
 
 
-Tines
 
 
 
-## 🎓 Certifications: 
+
+### 🎓 Certifications: 
 <a href="https://www.youruniversity.edu/degree/business-administration">
   <img src="https://img.shields.io/badge/BSc%20Business%20Administration-0056B3?style=for-the-badge&logo=university&logoColor=white" alt="BSc in Business Administration" />
 </a>
