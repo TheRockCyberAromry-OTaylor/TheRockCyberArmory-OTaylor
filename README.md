@@ -79,7 +79,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 <a href="https://www.elastic.co/siem/">
   <img src="https://img.shields.io/badge/Tool-Elastic%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 </a>
-Microsoft Sentinel, Elastic Security
+
 
 #### Threat Intelligence
 
