@@ -18,101 +18,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 
 ### 🛠️ Tools:
 
-#### Network Analysis
 
-<a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Tool-Wireshark-002F6C?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
-<a href="https://nmap.org"><img src="https://img.shields.io/badge/Tool-Nmap-10B6C2?style=for-the-badge&logo=Nmap&logoColor=white" /></a>
-
-#### Malware Analysis
-
-<a href="https://github.com/mandiant/flare-vm">
-  <img src="https://img.shields.io/badge/Tool-FLARE--VM-FF5733?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
-<a href="https://www.winitor.com/tools/pestudio/">
-  <img src="https://img.shields.io/badge/Tool-PE%20Studio-4B0082?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
-<a href="https://mh-nexus.de/en/hxd/">
-  <img src="https://img.shields.io/badge/Tool-HxD-2E8B57?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
-<a href="https://www.nirsoft.net/utils/hash_my_files.html">
-  <img src="https://img.shields.io/badge/Tool-HashMyFiles-8A2BE2?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
-<a href="https://exeinfo.atwebpages.com/">
-  <img src="https://img.shields.io/badge/Tool-Exeinfo%20PE-FF8C00?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
-<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer">
-  <img src="https://img.shields.io/badge/Tool-Process%20Explorer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-
-<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/procmon">
-  <img src="https://img.shields.io/badge/Tool-Process%20Monitor-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-
-<a href="https://sourceforge.net/projects/regshot/">
-  <img src="https://img.shields.io/badge/Tool-Regshot-708090?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
-<a href="https://github.com/mandiant/flare-fakenet-ng">
-  <img src="https://img.shields.io/badge/Tool-FakeNet--NG-DC143C?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
-<a href="https://www.procdot.com/">
-  <img src="https://img.shields.io/badge/Tool-ProcDOT-1E90FF?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-
-#### Identity & Access Management (IAM)
-
-<a href="https://aws.amazon.com/what-is-cloud-computing/">
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<a href="https://support.google.com/accounts/answer/1066447">
-  <img src="https://img.shields.io/badge/MFA-Google%20Authenticator-34A853?style=for-the-badge&logo=google&logoColor=FF0000" />
-</a>
-
-
-#### Vulnerability Management
-
-<a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Tool-Nessus-003d4d?style=for-the-badge&logo=Tenable&logoColor=white" /></a>
-
-
-#### Microsoft Sentinel SIEM
-
-<a href="https://azure.microsoft.com/en-us/products/microsoft-sentinel">
-  <img src="https://img.shields.io/badge/Tool-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</a>
-
-#### AWS + Elastic SIEM + Tines AI Automation
-
-<a href="https://aws.amazon.com/">
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<a href="https://www.elastic.co/siem/">
-  <img src="https://img.shields.io/badge/Tool-Elastic%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white" />
-</a>
-
-<a href="https://tines.com/">
-  <img src="https://img.shields.io/badge/Tool-Tines-6A1B9A?style=for-the-badge&logo=tines&logoColor=white" />
-</a>
-
-
-#### Threat Intelligence 
-
-<a href="https://www.virustotal.com">
-  <img src="https://img.shields.io/badge/Tool-VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-</a>
-
-<a href="https://www.abuseipdb.com/">
-  <img src="https://img.shields.io/badge/Tool-AbuseIPDB-FF6F61?style=for-the-badge&logo=abuseipdb&logoColor=white" />
-</a>
-
-nstead of one big “Tools” section, split like this:
 
 #### Network & Security Tools
 <a href="https://www.wireshark.org"><img src="https://img.shields.io/badge/Tool-Wireshark-002F6C?style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
@@ -120,11 +26,7 @@ nstead of one big “Tools” section, split like this:
 
 #### Vulnerability Management
 
-<a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Tool-Nessus-003d4d?style=for-the-badge&logo=Tenable&logoColor=white" /></a>
-
-
-
-#### Malware Analysis
+<a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/Tool-Nessus-003d4d?style=for-the-badge&logo=Tenable&logoColor=white" 
 
 #### Malware Analysis
 
