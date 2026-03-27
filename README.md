@@ -102,6 +102,16 @@ VirusTotal, AbuseIPDB
 </a>
 AWS (IAM, CloudTrail), MFA (Google Authenticator)
 
+<a href="https://aws.amazon.com/ec2/">
+  <img src="https://img.shields.io/badge/Service-AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="https://aws.amazon.com/s3/">
+  <img src="https://img.shields.io/badge/Service-AWS%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+
+
 #### Automation
 
 <a href="https://tines.com/">
