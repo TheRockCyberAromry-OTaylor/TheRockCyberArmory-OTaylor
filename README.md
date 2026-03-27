@@ -128,10 +128,6 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
   <img src="https://img.shields.io/badge/BSc%20Business%20Administration-0056B3?style=for-the-badge&logo=university&logoColor=white" alt="BSc in Business Administration" />
 </a>
 
-
-
-<a href="https://www.comptia.org/certifications/stackable-professional"><img src="https://img.shields.io/badge/Certified%20-CompTIA%20Stackable%20Professional-003D6C?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
-
 <a href="https://www.comptia.org/certifications/cybersecurity-analyst"><img src="https://img.shields.io/badge/CySA%2B%20-Certified-39FF14?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
 <a href="https://www.comptia.org/certifications/security"><img src="https://img.shields.io/badge/Security%2B%20-Certified-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/Network%2B%20-Certified-0072C6?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
