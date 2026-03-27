@@ -128,7 +128,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
   <img src="https://img.shields.io/badge/BSc%20Business%20Administration-0056B3?style=for-the-badge&logo=university&logoColor=white" alt="BSc in Business Administration" />
 </a>
 
-<a href="https://www.youruniversity.edu/degree/business-administration"><img src="https://img.shields.io/badge/BSc%20in%20Business%20Administration-8B7B4A?style=for-the-badge&logo=University&logoColor=white" /></a>
+
 
 <a href="https://www.comptia.org/certifications/stackable-professional"><img src="https://img.shields.io/badge/Certified%20-CompTIA%20Stackable%20Professional-003D6C?style=for-the-badge&logo=CompTIA&logoColor=black" /></a>
 
@@ -137,7 +137,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 <a href="https://www.comptia.org/certifications/network"><img src="https://img.shields.io/badge/Network%2B%20-Certified-0072C6?style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
 
-## 🤳Contact Me
+### 🤳Contact Me
 I’m always open to networking and discussing cybersecurity topics and opportunities! Feel free to reach out via 
 #### 📧 taylorolatunji27@gmail.com.       
 <a href="https://linkedin.com/in/olatunji-taylor-277b4232a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
