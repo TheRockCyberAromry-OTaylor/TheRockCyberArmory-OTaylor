@@ -16,7 +16,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 | **AWS + Elastic SIEM + Tines AI Automation** https://github.com/TheRockCyberAromry-OTaylor/Cloud-Native-AI-Enhanced-Security-Log-Automation-Pipeline-with-AWS-Elastic-and-Tines| SOAR automation, low‑code workflows, cross‑platform integration, AI‑driven enrichment |
 
 
-### 🛠️ Tools:
+### 🛠️ Tools
 
 #### Network & Security Tools
 
@@ -123,7 +123,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 
 
 
-### 🎓 Certifications: 
+### 🎓 Certifications 
 <a href="https://www.youruniversity.edu/degree/business-administration">
   <img src="https://img.shields.io/badge/BSc%20Business%20Administration-0056B3?style=for-the-badge&logo=university&logoColor=white" alt="BSc in Business Administration" />
 </a>
@@ -139,11 +139,11 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 
 ### 🤳Contact Me
 I’m always open to networking and discussing cybersecurity topics and opportunities! Feel free to reach out via 
-#### 📧 taylorolatunji27@gmail.com.       
+#### 📧 taylorolatunji27@gmail.com       
 <a href="https://linkedin.com/in/olatunji-taylor-277b4232a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 <a href="https://x.com"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
-## 👏Thanks for visiting my profile
+### 👏Thanks for visiting my profile
 
 
 
