@@ -9,7 +9,7 @@ Through CySA+ training , volunteer IT experience and hands on lab work, I have g
 | **Projects** | **Core Skills Demonstrated** |
 | --- | --- |
 | **Wireshark Network Analysis** https://github.com/GraceTech-Otaylor/Wireshark-Project | Packet inspection, protocol analysis, threat hunting |
-| **Malware Analysis** https://github.com/GraceTech-Otaylor/Vulnerability-Management-Lab| Static & dynamic analysis, sandboxing, reverse engineering fundamentals |
+| **Malware Analysis** https://github.com/TheRockCyberAromry-OTaylor/Malware-Analysis| Static & dynamic analysis, sandboxing, reverse engineering fundamentals |
 | **AWS Identity & Access Management (IAM)** https://github.com/GraceTech-Otaylor/AWS-Identity-and-Access-Management-IAM-Project| Identity federation, IAM policies, least privilege, MFA |
 | **Nessus Vulnerability Management**https://github.com/TheRockCyberAromry-OTaylor/Vulnerability-Management-Lab| Vulnerability scanning, risk scoring, prioritization, remediation |
 | **Microsoft Sentinel SIEM** https://github.com/TheRockCyberAromry-OTaylor/Azure-Sentinel-Threat-Hunting-and-Incident-Response-Lab| KQL queries, alerting, log correlation, incident triage and response |
